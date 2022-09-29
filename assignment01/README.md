@@ -3,5 +3,5 @@
 ## Sustainable Cities and Communities
 ### Giovanni Anguiano DH110
 
-This is project is about 
+This is project will focus on Sustainable Cities and Communities by exploring Malibu beaches
 
