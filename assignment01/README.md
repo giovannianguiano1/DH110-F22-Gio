@@ -1,4 +1,4 @@
-# DH110-F22-Gio
+# DH110-F22
 
 ## Sustainable Cities and Communities
 ### Giovanni Anguiano DH110
