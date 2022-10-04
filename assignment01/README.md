@@ -58,3 +58,46 @@ The app is full of useful information and interactive features that can be both 
 >*Recommendation: Have the tracking feature show users how far they are from a specific beach. Once a user shares their location with the app, it'll show exactly how many miles they are away from their selected beach.
 
 #### Severity rating: 2
+
+#### 2. Match Between System and the Real World
+* The app steers clear of using any confusing jargon about accessways or beach information as well as parking information. It maintains the use of colloquial language that can be understood by most. The only criticism is that the language is a bit unprofessional.
+
+![Our Malibu Beaches Basics and About page](malibu-language.png)
+
+* The language isn't necessarily bad. I understand the developers of the app may want to use more lax language to give off the impression or feeling of a friendly or familiar "local," someone who is highly knowledgable about the area. However, it feels too forced and it would jsut be better to use clear and more professional language. For instance, the sentence "which 'no trespassing' and 'no parking' signs you can smile at and ignore" can be easily and more comprehensibly simplified to "which 'no trespassing and 'no parking' signs you can safely ignore"
+
+> *Recommendation: Simplify and write more clear and professional language*
+
+#### Severity rating: 1
+
+#### 3. User Control and Freedom
+* After a user goes through the list of beaches found in the hamburger nagivation menu, they can select it and go to its information page. However, once they've done so, they cannot return to the place in the list they were just at. Instead, they must go back to the hamburger navigation menu and go through the entire list again. For instance, let's say a user goes through the A-Z list and ends up clicking on "Leo Carillo State Beach." If the user wants to return to where they just were, they have to navigate back to the list using the hamburger menu, where they start at A once again and must scroll all the way down toward L.
+
+> *Recommendation: Add a back button so users don't have to go through the entire sifting process again*
+
+#### Severity rating: 3
+
+#### 4. Consistency and Standards
+* The hamburger menu features two lists of beaches: A-Z and E-W. The existence of the A-Z list makes the E-W list completely unneccesarry. When a user goes through the E-W list, they'll notice it's the same exact list as the A-Z list, just not in alphabetical order. The existence of the E-W list gives users the illusion of more exploration, when that isn't the case. 
+
+![Our Malibu Beaches list of beaches](malibu-beachlist.png)
+
+> *Recommendation: Remove the E-W list due to its repetitiveness.*
+
+* When users go through different beach information pages, they'll notice some information found on one page cannot be found on another. Some beach's information pages include tide level, parking information, signage information, and even fun facts. Others have nothing but a hyperlink that redirects you to another site that does not always include that same information.
+
+![Our Malibu Beaches information pages](malibu-infopage.png)
+
+> *Recommendation: Have the all pages be consistent with the information it displays. Do not have users redirected to another site to find the information, instead, have it all inegrated within the app. If certain information is unvailable, simply have it say that information is unavailable for that specifc beach, do not omit that section completely.*
+
+#### Severity rating: 3
+
+#### 5. Error Prevention
+* When users use the interactive map, sometimes the app will become very buggy. It slows down and glitches more, sometimes a white bar will appear on the side of the screen and remain their. Other times, the app completely shuts down. The only current solution users have is to close and reopen the app.
+
+![Our Malibu Beaches interactive map bug](malibu-bug.png)
+
+> *Recommendation: Adjust the embedded code for the interactive map so it's less buggy*
+
+#### Severity rating: 3
+
