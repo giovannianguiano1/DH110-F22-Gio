@@ -53,7 +53,7 @@ The app is full of useful information and interactive features that can be both 
 
 * There is also a tracking feature that shows your exact location located at toward the bottom right corner of the screen. It does not do anything beyond show you exactly where you are, meaning it has no relationship with distance from the beaches (i.e., it does not show you exactly how far you are from the beach your interested in). 
 
-![Our Malibu Beach map](malibu-maplocation.png)
+![Our Malibu Beach map](Malibu-maplocation.png)
 
 >*Recommendation: Have the tracking feature show users how far they are from a specific beach. Once a user shares their location with the app, it'll show exactly how many miles they are away from their selected beach.
 
