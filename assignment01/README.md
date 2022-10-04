@@ -51,4 +51,4 @@ The app is full of useful information and interactive features that can be both 
 
 > *Recommendation: Include a search bar at the top center of the map that will either immediately locate it on the map for the user so they can tap on it's designated icon and be redirected to its information page or display a drop down tab for them to press and be redirected to its information page. Additionally, it would be good to have results displayed as the user types for even quicker access. This would encourage the user to explore the app more as well.*
 
-##### Severity rating: 2
+#### Severity rating: 2
