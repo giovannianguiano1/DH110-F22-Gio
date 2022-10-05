@@ -1,4 +1,4 @@
-# Sustainable Cities and Communities
+# Sustainable Cities and Communities: The World Around You
 
 ## Assignment 1: Heuristic Evaluation
 
