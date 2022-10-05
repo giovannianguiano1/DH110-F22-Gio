@@ -12,16 +12,16 @@ Although the environment can continue to survive in its natural state, human int
 
 | Number | Heuristic | Description |
 |---|---|---|
-| 1 | Visibility of System Status | Users should always be informed about what is going on and should be given appropriate feedback to their actions |
-| 2 | Match Between System and the Real World | Use concepts and language that are familiar and logical to the user |
-| 3 | User Control and Freedom | Allow users to make mistakes; give them options to undo and redo tasks |
-| 4 | Consistency and Standards | Follow conventions and make sure design is consistent across the platform |
-| 5 | Error Prevention | Get rid of error-prone conditions and provide users with safety nets for high-cost errors |
-| 6 | Recognition Rather Than Recall | Minimize user's memory load by giving them suggestions and help in context |
-| 7 | Flexibility and Efficiency of Use | Provide multiple ways to perform a task to make the platform accessible to all users |
-| 8 | Aesthetic and Minimalist Design | Provide only relevant content and features |
-| 9 | Help Users Recognize, Diagnose, and Recover From Errors | Tell users what the problem is and provide suggestions to fix it |
-| 10 | Help and Documentation | Supply users with extra help to complete their tasks |
+| 1 | Visibility of System Status | Users should always be informed about what is going; actions are given proper feedback |
+| 2 | Match Between System and the Real World | Design uses concepts and language that are familiar and simple to the user |
+| 3 | User Control and Freedom | Allow users to make and undo mistakes |
+| 4 | Consistency and Standards | Follow conventions and ensure design is consistent throughout the website/app |
+| 5 | Error Prevention | Eliminate error-prone conditions and give users safety nets in case of high-cost errors |
+| 6 | Recognition Rather Than Recall | Minimize user's memory load by making elements clearly visible or easily accessible |
+| 7 | Flexibility and Efficiency of Use | Provide different ways to perform a task to cater to both expert and novice users |
+| 8 | Aesthetic and Minimalist Design | Provide only relevant/necessary content and features |
+| 9 | Help Users Recognize, Diagnose, and Recover From Errors | Tell users what the problem is and provide solutions to fix it |
+| 10 | Help and Documentation | Give users with support to complete their tasks |
 
 
 ### [Severity Ratings](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/) for Usability Problems by Nielsen Norman Group
@@ -29,7 +29,7 @@ Although the environment can continue to survive in its natural state, human int
 The following rating scale can be used to evaluate the severity of usability issues:
 | Rating | Description |
 |---|---|
-| 1 | Cosmetic problem only: need not be fixed unless extra time is available on project |
+| 1 | Cosmetic problem only: Doesn't need to be urgently fixed unless extra time is available on project |
 | 2 | Minor usability problem: fixing this should be given low priority |
 | 3 | Major usability problem: important to fix, so should be given high priority |
 
@@ -39,7 +39,7 @@ The following rating scale can be used to evaluate the severity of usability iss
 ### About
 [Our Malibu Beaches](https://apps.apple.com/us/app/our-malibu-beaches/id565636167) is an app asscociated with the Know What network, a collection of apps that inform people about different the locations around them. Our Malibu Beaches gives users pinpointed directions and tips to access Malibu beaches. Serving as an "owner's manual," users can find information about elusive accessways, parking information, signage information, as well as tide information. What's more, if users have a bad experience with accessing a beach, the app gives instructs on how to report it to the CA Coastal Commission. Additionally, users can learn more about the beaches they're visiting through a facts page. 
 
-The app is full of useful information and interactive features that can be both helpful and confusing. My aim in this evaluation is to preserve the basic foundation while enhancing easier-navigation for the users.
+The app is full of useful information and interactive features that seem to be be both helpful and confusing. My aim in this evaluation is to preserve the basic foundation while enhancing easier-navigation for the users.
 
 ### Heuristic Evaluation
 
@@ -52,7 +52,7 @@ The app is full of useful information and interactive features that can be both 
 
 #### Severity rating: 2
 
-* There is also a tracking feature that shows your exact location located at toward the bottom right corner of the screen. It does not do anything beyond show you exactly where you are, meaning it has no relationship with distance from the beaches (i.e., it does not show you exactly how far you are from the beach your interested in). 
+* There is also a tracking feature that shows your exact location located toward the bottom right corner of the screen. It does not do anything beyond show you exactly where you are, meaning it has no relationship with distance from the beaches (i.e., it does not show you exactly how far you are from the beach your interested in). 
 
 ![Our Malibu Beach map](Malibu-maplocation.png)
 
@@ -79,7 +79,7 @@ The app is full of useful information and interactive features that can be both 
 #### Severity rating: 3
 
 #### 4. Consistency and Standards
-* The hamburger menu features two lists of beaches: A-Z and E-W. The existence of the A-Z list makes the E-W list completely unneccesarry. When a user goes through the E-W list, they'll notice it's the same exact list as the A-Z list, just not in alphabetical order. The existence of the E-W list gives users the illusion of more exploration, when that isn't the case. 
+* The hamburger menu features two lists of beaches: A-Z and E-W. The existence of the A-Z list makes the E-W list completely unnecessary. When a user goes through the E-W list, they'll notice it's the same exact list as the A-Z list, just not in alphabetical order. The existence of the E-W list gives users the illusion of more exploration, when that isn't the case. 
 
 ![Our Malibu Beaches list of beaches](malibu-beachlist.png)
 
@@ -91,12 +91,12 @@ The app is full of useful information and interactive features that can be both 
 
 ![Our Malibu Beaches information pages](malibu-infopage.png)
 
-> *Recommendation: Have the all pages be consistent with the information it displays. Do not have users redirected to another site to find the information, instead, have it all inegrated within the app. If certain information is unvailable, simply have it say that information is unavailable for that specifc beach, do not omit that section completely.*
+> *Recommendation: Have all pages be consistent with the information it displays. Do not have users redirected to another site to find the information, instead, have it all inegrated within the app. If certain information is unavailable, simply have it say that the information is unavailable for that specifc beach, do not omit that section completely.*
 
 #### Severity rating: 3
 
 #### 5. Error Prevention
-* When users use the interactive map, sometimes the app will become very buggy. It slows down and glitches more, sometimes a white bar will appear on the side of the screen and remain their. Other times, the app completely shuts down. The only current solution users have is to close and reopen the app.
+* When users use the interactive map, sometimes the app will become very buggy. It slows down and glitches more, sometimes a white bar will appear on the side of the screen and remain there. Other times, the app completely shuts down. The only current solution users have is to close and reopen the app.
 
 ![Our Malibu Beaches interactive map bug](malibu-bug.png)
 
@@ -154,19 +154,22 @@ The Our Malibu Beaches app is an app that's full of useful information. The main
 ### About
 [WWF Together](https://apps.apple.com/us/app/wwf-together/id581920331) is an app created by the World Wildlife Fund (WWF). WWF aims to create a future where people and nature live in harmony. An integral part of the organization is the protection and preservation of wildlife, shielding them from threats like poaching, habitat loss, and overuse of natural resources. The WWF Together apps aims to bring users closer to endangered species by allowing them to discover these species lives and the support WWF offers them. Users can play with interactive features and learn more through weekly-updated wildlife news.
 
+The app boasts innovative design features that are very visually appealing, but there seems to be a lot going on (and more than meets the eye). My aim in this evaluation is to maintain the creative features it has while implementing changes that would enhance them in simple ways.
+
 ### Heuristic Evaluation
 
 #### 1. Visibility of System Status
-* When users launch the app, they are greeted with an animation that features an origami panda being made. In the background, there is a soundtrack being played (this doesn't appear to be muteable). Users have the option to skip this introduction and be brought to the main homepage. On the main homepage, users are shown a picture of a panda and the word charisma. Users can swipe left to see other featured animals. Each animal appears to be associated with a specific word. Below the displayed word, there is an "enter" button. Once pressed, users are redirected the animal's page where they can find facts and an interactive camera feature that places an origami of the animal in your picture with VR.
-
+* When users launch the app, they are greeted with an animation that features an origami panda being made. In the background, there is a soundtrack being played (this doesn't appear to be muteable). Users have the option to skip this introduction and be brought to the main homepage.
 
 ![WWF Together Homepage](wwf-homepage.png)
 
-* There isn't a back button, instead you must press the logo in the top left corner situated in the navigation bar. Once you do so, it takes you to the start page, and once you click start, it plays this quick slideshow animation of all the animals. This occurs every time you redirect back to the homepage and it's not skippable.
+*On the main homepage, users are shown a picture of a panda and the word charisma. Users can swipe left to see other featured animals. Each animal appears to be associated with a specific word. Below the displayed word, there is an "enter" button. Once pressed, users are redirected the animal's page where they can find facts and an interactive camera feature that places an origami of the animal in your picture with VR.
+
+* There isn't a back button, instead you must press the logo in the top left corner situated in the navigation bar. Once you do so, it takes you to the start page, and once you click start, it plays a slideshow animation of all the animals. This occurs every time you redirect back to the homepage and it's not skippable.
 
 ![WWF Together Startpage](wwf-startpage.png)
 
-> *Recommendation: Have the slideshow play only once, instead of every time the user redirects to the homepage. While it is visually appealing, it gets tiresome having to wait. Users should have quick access. In addition, have an option for the soundtrack to be muted.
+> *Recommendation: Have the slideshow play only once, instead of every time the user redirects to the homepage. While it is visually appealing, it gets tiresome having to wait. Users should have quick access. In addition, have an option for the soundtrack to be muted to allow for total user control.*
 
 #### Severity rating: 1
 
@@ -187,19 +190,19 @@ The Our Malibu Beaches app is an app that's full of useful information. The main
 
 ![WWF Together create feature](wwf-exit.png)
 
-> *Recommendation: Include an exit icon throughout the app so users can escape quickly instead of having to swipe or summon the navigation bar
+> *Recommendation: Include an exit icon throughout the app so users can escape quickly to the page they were just on instead of having to swipe or summon the navigation bar*
 
 #### Severity rating: 2
 
 * As explained before, if you want to redirect back to the home page, you must click on the logo in the top left corner that's situated in the navigation bar. However, this navigation bar dissappears when you're exploring different pages. To have it come back up, you have to double tap the screen.
 
-> *Recommendation: Instead of having a double-tap feature to summon the navigation bar, have a small back arrow in the corner or have it be a one-tap to summon the navigation bar.
+> *Recommendation: Instead of having a double-tap feature to summon the navigation bar, have a small back arrow in the corner or have it be a one-tap to summon the navigation bar.*
 
 #### Severity rating: 2
 
 * When the user is sliding through the different animals, one quick/hard swipe will result in a quick toggle through all the animals. In other words, the swip function is very sensitive. 
 
-> *Recommendation: Have the swipe function be more rigid. One quick swipe should only bring the user to the next page, not the vry end.
+> *Recommendation: Have the swipe function be more rigid. One quick swipe should only bring the user to the next page, not the very end.*
 
 #### Severity rating: 1
 
@@ -227,7 +230,7 @@ The Our Malibu Beaches app is an app that's full of useful information. The main
 #### Severity rating: 3
 
 #### 6. Recognition Rather Than Recall
-* The app has a lot of features, but most of them aren't apparent. You figure it out as you explore. For instance, when you go to an animal's page, there is a blue button with the animal icon. When you press and hold, it plays what the animal sounds like. There is no tutorial guide on navigation so you must remember how everything is set up. There is only a quick tutorial that appears once in the beginning about swiping left.
+* The app has a lot of features, but most of them aren't apparent. You figure it out as you explore. For instance, when you go to an animal's page, there is a blue button with the animal icon. When you press and hold, it plays what the animal sounds like. There is no tutorial guide on navigation so you must remember how everything is set up. There is only a quick tutorial that appears once in the beginning about swiping left on the mainpage.
 
 > *Recommendation: Implement a tutorial guide for first-time users so they know how to work everything in the app instead of having them figure it out themselves.*
 
@@ -240,7 +243,7 @@ The Our Malibu Beaches app is an app that's full of useful information. The main
 
 ![WWF Together](wwf-grid.png)
 
-> *Recommendation: include quicker escape options so navigation options become more accesible.
+> *Recommendation: include quicker escape options so navigation options become more accesible.*
 
 #### Severity rating: 2
 
@@ -271,6 +274,14 @@ The Our Malibu Beaches app is an app that's full of useful information. The main
 
 #### Severity rating: 2
 
+* In the face-toface feature, there is an narration that is muteable, but does not include a transcript.
+
+![WWF Together face-to-face feature](wwf-facetoface.png)
+
+> *Recommendation: Include a trasncript for better accessibility.*
+
+#### Severity rating: 3
+
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
 * There aren't any error messages that pop up when an issue occurs and if the app does bug out, users aren't given an option to report it
 
@@ -287,4 +298,4 @@ The Our Malibu Beaches app is an app that's full of useful information. The main
 
 ### Overall Assessment
 
-The WWF Together app is an app with amazing design features and pushes important narratives about wildlife forward. While it does have cool features, most of its usability issues actually fall under the design aspect. The navigation bar while useful, isn't always the most accessible. The double-tap summon feature could be turned into a one-tap or even a back button in other instances throughout the app. Some text is hard to read due to font color and background color. While it's interactive features are stunning, they aren't intuitive and require more instruction. Moving through the app takes a lot of swiping and some information can't even be found. Its unskippable slideshow animations are amazing, but quickly get old. If these recommendations are implemented, the app would definitely be top-tier!
+The WWF Together app is an app with amazing design features and pushes important narratives about wildlife forward. While it does have cool features, most of its usability issues do actually fall under the design aspect. The navigation bar while useful, isn't always the most accessible. The double-tap summon feature could be turned into a one-tap or even a back button in other instances throughout the app. Some text is hard to read due to font color and background color. While it's interactive features are stunning, they aren't intuitive and require more instruction. Moving through the app takes a lot of swiping and some information can't even be found. Its unskippable slideshow animations are amazing, but quickly get old. If these recommendations are implemented, the app would definitely be top-tier!
