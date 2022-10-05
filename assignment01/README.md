@@ -6,7 +6,7 @@ Giovanni Anguiano | DH110 | Fall 2022
 
 ### About the project
 
-Although the environment can continue to survive in its natural state, human intervention has caused extensive destruction in many ecosystems. It is very important for us to protect our environment, so that we can continue to live on this planet - in a healthy and safe atmosphere. Healthy ecosystems clean our water, purify our air, maintain our soil, regulate the climate, recycle nutrients and provide us with food. They provide raw materials and resources for medicines and other purposes. They are at the foundation of all civilisation and sustain our economies. Currently, there our hundreds of apps focused on protecting biodiversity. This project will focus on two apps: Our Malibu Beaches and WWF Together.
+Although the environment can continue to survive in its natural state, human intervention has caused extensive destruction in many ecosystems. It is very important for us to protect our environment, so that we can continue to live on this planet - in a healthy and safe atmosphere. Healthy ecosystems clean our water, purify our air, maintain our soil, regulate the climate, recycle nutrients and provide us with food. They provide raw materials and resources for medicines and other purposes. They are at the foundation of all civilisation and sustain our economies. Currently, there our hundreds of apps focused on protecting and promoting biodiversity. This project will focus on two apps: Our Malibu Beaches and WWF Together.
 
 ### Jakob Nielson's [10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/) Explained
 
@@ -33,7 +33,6 @@ The following rating scale can be used to evaluate the severity of usability iss
 | 2 | Minor usability problem: fixing this should be given low priority |
 | 3 | Major usability problem: important to fix, so should be given high priority |
 
-Ratings are displayed in parentheses after each usability issue.
 
 ## Website 1: [Our Malibu Beaches](https://apps.apple.com/us/app/our-malibu-beaches/id565636167)
 
@@ -64,14 +63,14 @@ The app is full of useful information and interactive features that can be both 
 
 ![Our Malibu Beaches Basics and About page](malibu-language.png)
 
-* The language isn't necessarily bad. I understand the developers of the app may want to use more lax language to give off the impression or feeling of a friendly or familiar "local," someone who is highly knowledgable about the area. However, it feels too forced and it would jsut be better to use clear and more professional language. For instance, the sentence "which 'no trespassing' and 'no parking' signs you can smile at and ignore" can be easily and more comprehensibly simplified to "which 'no trespassing and 'no parking' signs you can safely ignore"
+* The language isn't necessarily bad. I understand the developers of the app may want to use more lax language to give off the impression or feeling of a friendly or familiar "local," someone who is highly knowledgable about the area. However, it feels too forced and it would just be better to use clear and more professional language. For instance, the sentence "which 'no trespassing' and 'no parking' signs you can smile at and ignore" can be easily and more comprehensibly simplified to "which 'no trespassing and 'no parking' signs you can safely ignore"
 
 > *Recommendation: Simplify and write more clear and professional language*
 
 #### Severity rating: 1
 
 #### 3. User Control and Freedom
-* After a user goes through the list of beaches found in the hamburger nagivation menu, they can select it and go to its information page. However, once they've done so, they cannot return to the place in the list they were just at. Instead, they must go back to the hamburger navigation menu and go through the entire list again. For instance, let's say a user goes through the A-Z list and ends up clicking on "Leo Carillo State Beach." If the user wants to return to where they just were, they have to navigate back to the list using the hamburger menu, where they start at A once again and must scroll all the way down toward L.
+* After a user goes through the list of beaches found in the hamburger nagivation menu, they can select it and go to its information page. However, once they've done so, they cannot return to the place in the list they were just at. Instead, they must go back to the hamburger menu and go through the entire list again. For instance, let's say a user goes through the A-Z list and ends up clicking on "Leo Carillo State Beach." If the user wants to return to where they just were, they have to navigate back to the list using the hamburger menu, where they start at A once again and must scroll all the way down toward L.
 
 > *Recommendation: Add a back button so users don't have to go through the entire sifting process again*
 
@@ -100,4 +99,49 @@ The app is full of useful information and interactive features that can be both 
 > *Recommendation: Adjust the embedded code for the interactive map so it's less buggy*
 
 #### Severity rating: 3
+
+#### 6. Recognition Rather Than Recall
+* The interactive map really eliminates the use of recall, which is great! If a user doesn't remember the exact name of a beach, but remembers the general area they were in, they will have an easier time using the map to pinpoint it and find more information. 
+
+* Some beaches have several access points that the apps list. This may confuse some users once they exit a page about a specific access point, they may not be able to remember what access point they were just looking at. Since there is no back button either, they'll have to go through the list again to go back to what they were just viewing.
+
+![Our Malibu Beaches different access points](malibu-accesspoint.png)
+
+> *Recommendation: Instead of having different access points have their own designated pages, combine them into one single page with a drop down that the user can toggle through*
+
+#### Severity rating: 1
+
+#### 7. Flexibility and Efficiency of Use
+* Currently, there aren't many different ways to perform tasks within the app. The two main ways to access beach information pages is through the interactive map or the lists in the hamburger menu.
+
+> *Recommendation: Previously, in the Visibility Systems Status section, it was recommended that a search bar be created for easier navigation. This recommendation applies here as well, as it will enhance flexibility and efficiency. 
+
+#### Severity rating: 2
+
+#### 8. Aesthetic and Minimalist Design
+* The apps does well with keeping a minimalist design. There is not a lot going on and there's a clean hierarchy in terms of headings. The font size is readable and the style is easy on the eyes. However, this does not mean it can't benefit from small redesigns.
+
+> *Recommendation: For a more sleek design, the font style can be changed to something like Serif. This font style gives a modern feel yet maintains readability for good accessibility. In addition, the interactive map could benefit from a mode switch, where users can change the appearance of the map such as in Apple maps.*
+
+#### Severity rating: 1
+
+#### 9. Help Users Recognize, Diagnose, and Recover From Errors
+* As previously mentioned in the Visibility Systems Status section, there is no back button. Therefore, a user may accidentally navigate to a particular page then they'll have to go all the way back to the hamburger menu to redirect elsewhere.
+
+> *Recommendation: Add a back button so users can recover to where they just were*
+
+#### Severity rating: 2
+
+#### 10. Help and Documentation
+* Currently, there is no help page that offers users extra support or a designated page to report any issues with the app. Users are left with visiting the app's page on the app store to write a review.
+
+> *Recommendation: Create a support or help center in the app so users can refer to it when they have any issues.*
+
+### Overall Assessment
+
+The Our Malibu Beaches app is an app that's full of useful information. The main issues it has with usability fall under it's organization and function. It suceeds with creativity and minimalist design, but falls short in its consistency and standards. Furthermore, it lacks simple and necessary tools that would enhance usability, such as a search bar and back button. Implementing these small, yet impactful, tools would undoubtedly raise users' experience. There is a lot that needs to be redone, however, it's imperative that the bugs the interactive map brings about are addressed first.
+
+
+
+## Website 2: [WWF Together](https://apps.apple.com/us/app/wwf-together/id581920331)
 
