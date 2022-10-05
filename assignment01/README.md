@@ -54,7 +54,7 @@ The app is full of useful information and interactive features that can be both 
 
 ![Our Malibu Beach map](Malibu-maplocation.png)
 
->*Recommendation: Have the tracking feature show users how far they are from a specific beach. Once a user shares their location with the app, it'll show exactly how many miles they are away from their selected beach.
+> *Recommendation: Have the tracking feature show users how far they are from a specific beach. Once a user shares their location with the app, it'll show exactly how many miles they are away from their selected beach.
 
 #### Severity rating: 2
 
@@ -126,11 +126,11 @@ The app is full of useful information and interactive features that can be both 
 #### Severity rating: 1
 
 #### 9. Help Users Recognize, Diagnose, and Recover From Errors
-* As previously mentioned in the Visibility Systems Status section, there is no back button. Therefore, a user may accidentally navigate to a particular page then they'll have to go all the way back to the hamburger menu to redirect elsewhere.
+* There aren't any error messages that pop up when an issue occurs and if the app does bug out, users aren't given an option to report it
 
-> *Recommendation: Add a back button so users can recover to where they just were*
+> *Recommendation: Implement error messages for users and offer solutions so they know how to fix it imnmediately*
 
-#### Severity rating: 2
+#### Severity rating: 3
 
 #### 10. Help and Documentation
 * Currently, there is no help page that offers users extra support or a designated page to report any issues with the app. Users are left with visiting the app's page on the app store to write a review.
@@ -145,3 +145,140 @@ The Our Malibu Beaches app is an app that's full of useful information. The main
 
 ## Website 2: [WWF Together](https://apps.apple.com/us/app/wwf-together/id581920331)
 
+### About
+[WWF Together](https://apps.apple.com/us/app/wwf-together/id581920331) is an app created by the World Wildlife Fund (WWF). WWF aims to create a future where people and nature live in harmony. An integral part of the organization is the protection and preservation of wildlife, shielding them from threats like poaching, habitat loss, and overuse of natural resources. The WWF Together apps aims to bring users closer to endangered species by allowing them to discover these species lives and the support WWF offers them. Users can play with interactive features and learn more through weekly-updated wildlife news.
+
+### Heuristic Evaluation
+
+#### 1. Visibility of System Status
+* When users launch the app, they are greeted with an animation that features an origami panda being made. In the background, there is a soundtrack being played (this doesn't appear to be muteable). Users have the option to skip this introduction and be brought to the main homepage. On the main homepage, users are shown a picture of a panda and the word charisma. Users can swipe left to see other featured animals. Each animal appears to be associated with a specific word. Below the displayed word, there is an "enter" button. Once pressed, users are redirected the animal's page where they can find facts and an interactive camera feature that places an origami of the animal in your picture with VR.
+
+
+![WWF Together Homepage](wwf-homepage.png)
+
+* There isn't a back button, instead you must press the logo in the top left corner situated in the navigation bar. Once you do so, it takes you to the start page, and once you click start, it plays this quick slideshow animation of all the animals. This occurs every time you redirect back to the homepage and it's not skippable.
+
+![WWF Together Startpage](wwf-startpage.png)
+
+> *Recommendation: Have the slideshow play only once, instead of every time the user redirects to the homepage. While it is visually appealing, it gets tiresome having to wait. Users should have quick access. In addition, have an option for the soundtrack to be muted.
+
+#### Severity rating: 1
+
+
+#### 2. Match Between System and the Real World
+* The app uses very simply and professional language that's very comprehensible. It is absent of any confusing wildlife jargon.
+
+![WWF Together](wwf-language.png)
+
+* It doesn't include a lot of information about the animals like they lead users to believe. Only short facts. It would be better to include more about the animals that maintains that clear and professional language.
+
+> *Recommendation: Include more information about the animals that still maintains simple and profressional language*
+
+#### Severity rating: 1
+
+#### 3. User Control and Freedom
+* There are exit icons for the create feature that allows users to escape from it, but it's only included there
+
+![WWF Together create feature](wwf-exit.png)
+
+> *Recommendation: Include an exit icon throughout the app so users can escape quickly instead of having to swipe or summon the navigation bar
+
+#### Severity rating: 2
+
+* As explained before, if you want to redirect back to the home page, you must click on the logo in the top left corner that's situated in the navigation bar. However, this navigation bar dissappears when you're exploring different pages. To have it come back up, you have to double tap the screen.
+
+> *Recommendation: Instead of having a double-tap feature to summon the navigation bar, have a small back arrow in the corner or have it be a one-tap to summon the navigation bar.
+
+#### Severity rating: 1
+
+* When the user is sliding through the different animals, one quick/hard swipe will result in a quick toggle through all the animals. In other words, the swip function is very sensitive. 
+
+> *Recommendation: Have the swipe function be more rigid. One quick swipe should only bring the user to the next page, not the vry end.
+
+#### Severity rating: 1
+
+
+#### 4. Consistency and Standards
+* Each animal page is consistent. Each page features a quick summary with facts about the animal. Then there is an interactive globe feature that pinpoints your location and tells you how far the nearest specific animal is from your location. It also details population in the wild, habitat, average weight, and average length. If that information is unavailable, it will tell you so instead of having it omitted. Swiping left shows even more features, suchs as threats to the animal, a "face-to-face" feature that's narrated (and muteable), images of the animal, endangerment category and more. 
+
+![WWF Together animal pages](wwf-standard.png)
+
+* The extra features are not consistent across animal pages. Some include more than others. For instance, there is a lot of information about giant pandas, including gestation period. There's also way more interactive features, including one about their food where you chop bamboo to see the text hidden behind it.
+
+![WWF Together animal pages](wwf-interactive.png)
+
+> *Recommendation: Have the same amount of features (especially interactive) across all the animals
+
+#### Severity rating: 1
+
+#### 5. Error Prevention
+* When users use the different VR functions, it can cause the app to glitch and get stuck on a gray page. It doesn't seem to shut down though. The only current solution users have is to close and reopen the app.
+
+![WWF Together error page](wwf-bug.png)
+
+> *Recommendation: Adjust the code for the VR functions so it's less buggy*
+
+#### Severity rating: 3
+
+#### 6. Recognition Rather Than Recall
+* The app has a lot of features, but most of them aren't apparent. You figure it out as you explore. For instance, when you go to an animal's page, there is a blue button with the animal icon. When you press and hold, it plays what the animal sounds like. There is no tutorial guide on navigation so you must remember how everything is set up. There is only a quick tutorial that appears once in the beginning about swiping left.
+
+> *Recommendation: Implement a tutorial guide for first-time users so they know how to work everything in the app instead of having them figure it out themselves.*
+
+#### Severity rating: 2
+
+#### 7. Flexibility and Efficiency of Use
+* The app has a camera feature that will place a virtual origami of the animal in the picture. There are multiple ways to access this: quick access using the + button, swiping to the end of an animal's page, and an icon with pluses on the navigation bar.
+
+* To navigate through all the animal pages, the user can either swipe through or click on the top right corner icon and see a grid where they can select themselves. However, navigating back is a bit more tedious because you have to go through the navigation bar instead of having a quick exit
+
+![WWF Together](wwf-grid.png)
+
+> *Recommendation: include quicker escape options so navigation options become more accesible.
+
+#### Severity rating: 2
+
+#### 8. Aesthetic and Minimalist Design
+* The apps does well with keeping a minimalist design. It's very sleek and has a modern feel to it. However there are a lot of features that are not intuitive. 
+
+* The font color at times does have a good contrast. For instance, there may be light white text on a white background, making it difficult to read.
+
+> *Recommendation: Have better contrast between text color and background color to enhance readability.*
+
+#### Severity rating: 2
+
+* There is a lot of swiping going on that the user may not realize is available. When you enter a page, you must swipe to the left, then down then to the left again to see other features, making the feel more hidden. 
+
+> *Recommendation: Add a progress bar of sorts on the bottom to let users know there's more for them to explore.*
+
+#### Severity rating: 2
+
+* Some features are interactive but don't present themselves as so. As previously mentioned, there was an interactive page in the pandas page where you chop bamboo to see the text hidden behind it. There was no indication to swipe to chop, the only unstruction given was "grow." Other animal pages were more clear about it, such as in the elephant's page where you "smear" the interactive button around the screen.
+
+![WWF Together Interactive feature](wwf-smear.png)
+
+#### Severity rating: 2
+
+* The app says there is weekly wildlife news, but I still cannot find it. Either it doesn't exist or it's hidden elsewhere. It may be sent through an emial listing that they offer.
+
+> *Recommendation: Have the weekly news integrated into the app and situated in the navigation bar denoted with a newspaper icon to make it easy to find.*
+
+#### Severity rating: 2
+
+#### 9. Help Users Recognize, Diagnose, and Recover From Errors
+* There aren't any error messages that pop up when an issue occurs and if the app does bug out, users aren't given an option to report it
+
+> *Recommendation: Implement error messages for users and offer solutions so they know how to fix it imnmediately*
+
+#### Severity rating: 3
+
+#### 10. Help and Documentation
+* Currently, there is no help page that offers users extra support or a designated page to report any issues with the app. Users are left with visiting the app's page on the app store to write a review.
+
+> *Recommendation: Create a support or help center in the app so users can refer to it when they have any issues.*
+
+#### Severity rating: 3
+
+### Overall Assessment
+
+The Our Malibu Beaches app is an app that's full of useful information. The main issues it has with usability fall under it's organization and function. It suceeds with creativity and minimalist design, but falls short in its consistency and standards. Furthermore, it lacks simple and necessary tools that would enhance usability, such as a search bar and back button. Implementing these small, yet impactful, tools would undoubtedly raise users' experience. There is a lot that needs to be redone, however, it's imperative that the bugs the interactive map brings about are addressed first.
