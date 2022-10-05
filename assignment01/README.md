@@ -50,13 +50,15 @@ The app is full of useful information and interactive features that can be both 
 
 > *Recommendation: Include a search bar at the top center of the map that will either immediately locate it on the map for the user so they can tap on it's designated icon and be redirected to its information page or display a drop down tab for them to press and be redirected to its information page. Additionally, it would be good to have results displayed as the user types for even quicker access. This would encourage the user to explore the app more as well.*
 
+#### Severity rating: 2
+
 * There is also a tracking feature that shows your exact location located at toward the bottom right corner of the screen. It does not do anything beyond show you exactly where you are, meaning it has no relationship with distance from the beaches (i.e., it does not show you exactly how far you are from the beach your interested in). 
 
 ![Our Malibu Beach map](Malibu-maplocation.png)
 
 > *Recommendation: Have the tracking feature show users how far they are from a specific beach. Once a user shares their location with the app, it'll show exactly how many miles they are away from their selected beach.
 
-#### Severity rating: 2
+#### Severity rating: 1
 
 #### 2. Match Between System and the Real World
 * The app steers clear of using any confusing jargon about accessways or beach information as well as parking information. It maintains the use of colloquial language that can be understood by most. The only criticism is that the language is a bit unprofessional.
@@ -65,7 +67,7 @@ The app is full of useful information and interactive features that can be both 
 
 * The language isn't necessarily bad. I understand the developers of the app may want to use more lax language to give off the impression or feeling of a friendly or familiar "local," someone who is highly knowledgable about the area. However, it feels too forced and it would just be better to use clear and more professional language. For instance, the sentence "which 'no trespassing' and 'no parking' signs you can smile at and ignore" can be easily and more comprehensibly simplified to "which 'no trespassing and 'no parking' signs you can safely ignore"
 
-> *Recommendation: Simplify and write more clear and professional language*
+> *Recommendation: Simplify and write more clear and professional language to ensure easy comprehension*
 
 #### Severity rating: 1
 
@@ -82,6 +84,8 @@ The app is full of useful information and interactive features that can be both 
 ![Our Malibu Beaches list of beaches](malibu-beachlist.png)
 
 > *Recommendation: Remove the E-W list due to its repetitiveness.*
+
+#### Severity rating: 2
 
 * When users go through different beach information pages, they'll notice some information found on one page cannot be found on another. Some beach's information pages include tide level, parking information, signage information, and even fun facts. Others have nothing but a hyperlink that redirects you to another site that does not always include that same information.
 
@@ -137,6 +141,8 @@ The app is full of useful information and interactive features that can be both 
 
 > *Recommendation: Create a support or help center in the app so users can refer to it when they have any issues.*
 
+#### Severity rating: 3
+
 ### Overall Assessment
 
 The Our Malibu Beaches app is an app that's full of useful information. The main issues it has with usability fall under it's organization and function. It suceeds with creativity and minimalist design, but falls short in its consistency and standards. Furthermore, it lacks simple and necessary tools that would enhance usability, such as a search bar and back button. Implementing these small, yet impactful, tools would undoubtedly raise users' experience. There is a lot that needs to be redone, however, it's imperative that the bugs the interactive map brings about are addressed first.
@@ -189,7 +195,7 @@ The Our Malibu Beaches app is an app that's full of useful information. The main
 
 > *Recommendation: Instead of having a double-tap feature to summon the navigation bar, have a small back arrow in the corner or have it be a one-tap to summon the navigation bar.
 
-#### Severity rating: 1
+#### Severity rating: 2
 
 * When the user is sliding through the different animals, one quick/hard swipe will result in a quick toggle through all the animals. In other words, the swip function is very sensitive. 
 
@@ -207,7 +213,7 @@ The Our Malibu Beaches app is an app that's full of useful information. The main
 
 ![WWF Together animal pages](wwf-interactive.png)
 
-> *Recommendation: Have the same amount of features (especially interactive) across all the animals
+> *Recommendation: Have the same amount of features (especially interactive) across all the animals to ensure interest in all featured animals
 
 #### Severity rating: 1
 
@@ -281,4 +287,4 @@ The Our Malibu Beaches app is an app that's full of useful information. The main
 
 ### Overall Assessment
 
-The Our Malibu Beaches app is an app that's full of useful information. The main issues it has with usability fall under it's organization and function. It suceeds with creativity and minimalist design, but falls short in its consistency and standards. Furthermore, it lacks simple and necessary tools that would enhance usability, such as a search bar and back button. Implementing these small, yet impactful, tools would undoubtedly raise users' experience. There is a lot that needs to be redone, however, it's imperative that the bugs the interactive map brings about are addressed first.
+The WWF Together app is an app with amazing design features and pushes important narratives about wildlife forward. While it does have cool features, most of its usability issues actually fall under the design aspect. The navigation bar while useful, isn't always the most accessible. The double-tap summon feature could be turned into a one-tap or even a back button in other instances throughout the app. Some text is hard to read due to font color and background color. While it's interactive features are stunning, they aren't intuitive and require more instruction. Moving through the app takes a lot of swiping and some information can't even be found. Its unskippable slideshow animations are amazing, but quickly get old. If these recommendations are implemented, the app would definitely be top-tier!
