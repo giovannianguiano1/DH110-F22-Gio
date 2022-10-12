@@ -8,7 +8,7 @@ In a usability test, usability is what is being measured. Usability refers to a 
 
 ### UT Materials
 
-Link to [UT SUrvey](https://forms.gle/TBGXzguw688517qd8)
+Link to [UT Survey](https://forms.gle/TBGXzguw688517qd8)
 
 ### Pilot UT Video
 
