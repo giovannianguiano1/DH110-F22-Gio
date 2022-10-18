@@ -26,7 +26,7 @@ The target users for this project are adults, between the ages of 25-35, that ar
 
 
 ## Step03: Pick research methods 
-The observation method I employed was participatory observation. I had several activities with my interviewee to explore the social issue and his potential interest as well as his reaction to the topic. 
+The observation method I selected was participatory observation. I had several activities with my interviewee to explore the issue and their potential interest as well as their reactions to the topic. 
 
 ## Interview Guide
 Please find the script [here](https://docs.google.com/document/d/1XPYzblDNm1fJfmqcLrWQhlWMDrJ7kRltjCkYdKAgXcw/edit?usp=sharing).
