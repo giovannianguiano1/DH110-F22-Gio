@@ -27,8 +27,16 @@ Link to [observation notes](https://docs.google.com/document/d/1x1wDLZfbTm1MSo2b
 
 ## Insights from the Interview 
 
-- How interested are you in engaging with organizations online through educational material versus in person activism?
-*> I'd say like, prefer, like, in person activism, just because, like, you know, it's face to face and you see, you know, the impact but like, you know, we're getting in like, these days, this day and age, like, everything's online. So like, I think we're just gonna have to like, you know, move with the times. And yeah, Then like obviously you can like reach like farther with like internet you know you can reach farther like to more people so like it's always something to like I guess become savvy in
+* How interested are you in engaging with organizations online through educational material versus in person activism?
+>* I'd say like, prefer, like, in person activism, just because, like, you know, it's face to face and you see, you know, the impact but like, you know, we're getting in like, these days, this day and age, like, everything's online. So like, I think we're just gonna have to like, you know, move with the times. And yeah, Then like obviously you can like reach like farther with like internet you know you can reach farther like to more people so like it's always something to like I guess become savvy in
 
+* What are your thoughts about these definitions, these findings, and these figures that you’re seeing?
+>* I think the the verbiage, the words are, like digestible enough that like, you know, like, somebody that didn't study what I did, can still, like, understand what is being talked about? Yeah, I think like, some of the articles were maybe like, a little too long, where it's like, if you're not interested in the topic, then like, it would, it's gonna be like, you know, I don't know if somebody would like, actually read through all of it
+
+* Does reading more about these stories affect how connected you feel to the issue?
+>* I wouldn't say reading about the stories, I think like, at least for me, videos are like, a lot more effective and like doing that. So like, you know, the readings, reading about it kind of like, you know, didn't really do a lot. But like those videos, especially like the second one, like, I don't know, it had definitely more of a lasting impact on me.
+
+* Do you feel as though your age may be a barrier or asset to approaching these issues?
+>* I would say like, personally, I would see like, I don't know, I feel like I don't have a lot of time to, like, volunteer or like help out and I think that's because of like, my age and like, how am I not-, I'm not like, you know, as maybe stable as like someone, like a little older than me would be like in their life. But I do feel as though like youth is important. You know, it brings like, you know, a new perspective to things. 
 
 ## Reflection 
