@@ -17,7 +17,7 @@ Based on my previous research, I plan to implement 3 design features that I beli
 #### Jordan Green
 ![Jordan's persona profile and empathy map](JordanGreen.png)
 
-#### Mary - the social butterfly  :butterfly: 
+#### Aileen Woodley
 ![Aileen's persona profile and empathy map](AileenWoodley.png)
 
 
