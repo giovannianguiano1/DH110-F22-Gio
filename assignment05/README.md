@@ -1,4 +1,4 @@
-# Assignment 6: Low-Fidelity Prototype
+# Assignment 5: Low-Fidelity Prototype
 
 ## Description of Project
 * My project is based on the WWF Together app, an app that allows users to explore and gather information about biodversity conservation. My goal is to redesign the app to allow users to go beyond just learning and gathering infromation and enable them to find volunteer and networking opportunities as well as share that information with their social networks with ease.
