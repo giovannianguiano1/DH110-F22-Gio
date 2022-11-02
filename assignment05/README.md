@@ -40,7 +40,7 @@
 ## Wireframes and Wireflow
 ![Wireframe](wireframe.png)
 
-![Wireflow](wireflow.png)
+![Wireflow](wireflow2.png)
 
 ## Prototype Testing with User Interactions
 * You can find the recorded video [here](https://drive.google.com/drive/u/0/folders/1vph9rrNg9xawea9UWH8LkL98GZoqtrDD?ths=true)
