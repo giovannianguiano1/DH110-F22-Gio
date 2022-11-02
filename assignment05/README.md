@@ -10,7 +10,7 @@
 
   From the above findings, I created two personas: 
   * Jordan Green, a Poltical Science major with a newfound interest in biodiversity conservation and an eagerness to meet likeminded peers.
-  * Aileen Woodley, a vocal environemntalist who has just moved to a new city and looking to find new community and share things with friends and family.
+  * Aileen Woodley, a vocal environmentalist who has just moved to a new city and looking to find new community and share things with friends and family.
   
   Find these personas [here](https://github.com/giovannianguiano1/DH110-F22-Gio/tree/main/assignment04) 
   
@@ -27,7 +27,7 @@
 * Purpose of Low-fidelity Prototype
   * The purpose of this low-fidelity prototyping is to translate the abstract concepts I have for these features into tangible mock-ups that will allow me
   to test their functionality. Through this, I can delve into the iterative and cyclical process of user research to invesitgate the discovery and
-  evaluiation of my tentative feature and make the necessary revisions to ultimately improve user satisfation and ease of use before entering the high
+  evaluation of my tentative features and make the necessary revisions to ultimately improve user satisfation and ease of use before entering the high
   fiedlity prototype stage.
 
 
