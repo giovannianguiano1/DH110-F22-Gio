@@ -38,15 +38,15 @@
 
 
 ## Wireframes and Wireflow
-[Wireframe](wireframe.png)
+![Wireframe](wireframe.png)
 
-(Wireflow](wireflow.png)
+![Wireflow](wireflow.png)
 
 ## Prototype Testing with User Interactions
 * You can find the recorded video [here](https://drive.google.com/drive/u/0/folders/1vph9rrNg9xawea9UWH8LkL98GZoqtrDD?ths=true)
 * You can find observational notes [here](https://docs.google.com/document/d/1YloiPQ7AxUKG5B2x1EAIEhq8E6c2f0kEQ4mSLQOmfK4/edit)
 * Please note that the same legend above applies here as well
-[User Interactions](user-interactions.png)
+![User Interactions](user-interactions.png)
 
 
 ## Reflection
