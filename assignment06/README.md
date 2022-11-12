@@ -63,10 +63,13 @@ I showed my product to the same person I did contextual interviews with. First, 
 
 **Overall Impression:**
 > The user could immediately identify what the purpose of the app page was. They could also immediately tell that it was a a biodiversity-related app based on the the icon.
+
 **Typography:**
 > The user preferred fonts that were professional but not “too basic” to look at. He did not like the Robotic Mono variation at all and said it made it look dated.
+
 **Shape:**
 > The user immediately indicated his their liking for the 4px and stated that the other two felt “off.” The user stated that the 15px variation was “almost too round” and didn’t make the page look “as sleek.” Furthermore, the 11px variation was “nice, but compared to the 4px variation, it comes second.”
+
 **Color Scheme:**
 > The user preferred the dark mode design over the light mode. They stated that they were more used to using dark mode, citing a personal bias in their aesthetic interests. They particularly liked the button colors contrasted to the dark background. They also pointed out that the color scheme for light mode could just be black and white, stating that it would look more sleek that way.
 
