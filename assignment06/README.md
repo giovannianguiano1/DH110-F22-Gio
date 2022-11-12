@@ -7,7 +7,7 @@
 
 ## Description of Project
 
-The aim of this project is to redesign WWF Together’s current interface to make is more accessible and easier to navigate. Additionally, the redesign will implement new features that will allow users to delve deeper into the sphere of biodiversity conservation. Some of these features include volunteer and networking opportunities and finding causes to donate to. In this specific demonstration, the design focuses on the donation page aspect of the app. The purpose of this interactive prototype is to visualize the donation page in order to create a visual skeleton and basic concepts of interactions. This will ultimately serve as a resource for usability testing that will help configure solutions throughout the entire design process. 
+The aim of this project is to redesign WWF Together’s current interface to make it more accessible and easier to navigate. Additionally, the redesign will implement new features that will allow users to delve deeper into the sphere of biodiversity conservation. Some of these features include volunteer and networking opportunities and finding causes to donate to. In this specific demonstration, the design focuses on the donation page aspect of the app. The purpose of this interactive prototype is to visualize the donation page in order to create a visual skeleton and basic concepts of interactions. This will ultimately serve as a resource for usability testing that will help configure solutions throughout the entire design process. 
 
 This interactive prototype is the digitalized and high-fidelity version of the paper prototype. It was created using Figma. After digitalizing the paper wireframes, small frames were transferred and scaled to the phone model (iPhone 8). After the transfer, a grid was utilized to to determine the best structure. Then, the typography styles of all texts were determined. These decisions informed the shapes and sizes of the buttons and icons. After completing all the structural parts of the grey-scale wireframes through several rounds of iterations, a color scheme was developed (a light and dark theme) that would be fitting for the intention of this app.
 
@@ -39,7 +39,7 @@ When comparing the three, I decided that I would want to use **Roboto Serif**, b
 
 ### Shape Variations
 
-Throughout my design, I had **rounded corners** on my rectangles for **buttons, search input, and assets**. The three variations include 4px, 11px, and 15px. I thought that 11px was the most fitting radius size for the final design.
+Throughout my design, I had **rounded corners** on my rectangles for **buttons, search input, and assets**. The three variations include 4px, 11px, and 15px. I thought that 4px was the most fitting radius size for the final design.
 
 ![Shapes](shapes.png)
 
@@ -73,7 +73,7 @@ I showed my product to the same person I did contextual interviews with. First, 
 **Color Scheme:**
 > The user preferred the dark mode design over the light mode. They stated that they were more used to using dark mode, citing a personal bias in their aesthetic interests. They particularly liked the button colors contrasted to the dark background. They also pointed out that the color scheme for light mode could just be black and white, stating that it would look more sleek that way.
 
-Direct Quotes from Impression Test:
+**Direct Quotes from Impression Test:**
 
 > “The dark mode looks amazing, but I say that because I just love dark mode for everything. Makes everything look better. I like the light mode too, but dark mode makes it feel more sleek”
 
@@ -126,7 +126,7 @@ Following the impression test, I made some changes to the final design. Namely, 
         * Rows:
             * Height: 56
             * Gutter: 1
-## Design Decisions 
+## Design Decisions Summary
 
 Color Scheme:
 I changed the colors per the user’s suggestions. This color scheme actually aligns with the current app’s interface (black and white). The green was made more muted to avoid being harsh on the eyes.
