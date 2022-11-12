@@ -57,7 +57,7 @@ I created a light and dark mode of the design, with some changes in the color pa
 ## Impression Testing
 
 
-I showed my product to the same person I did contextual interviews with. First, I did a 5 second test and showed the design for 5 seconds. After the 5 second test, I asked him for his first impressions and what he could remember about the website. The following are his first impressions:
+I showed my product to the same person I did contextual interviews with. First, I did a 5 second test and showed the design for 5 seconds. After the 5 second test, I asked them for their first impressions and what they could remember about the website. The following are their first impressions:
 
 ### 5-second-test findings
 
@@ -68,7 +68,7 @@ I showed my product to the same person I did contextual interviews with. First, 
 > The user preferred fonts that were professional but not “too basic” to look at. He did not like the Robotic Mono variation at all and said it made it look dated.
 
 **Shape:**
-> The user immediately indicated his their liking for the 4px and stated that the other two felt “off.” The user stated that the 15px variation was “almost too round” and didn’t make the page look “as sleek.” Furthermore, the 11px variation was “nice, but compared to the 4px variation, it comes second.”
+> The user immediately indicated their liking for the 4px and stated that the other two felt “off.” The user stated that the 15px variation was “almost too round” and didn’t make the page look “as sleek.” Furthermore, the 11px variation was “nice, but compared to the 4px variation, it comes second.”
 
 **Color Scheme:**
 > The user preferred the dark mode design over the light mode. They stated that they were more used to using dark mode, citing a personal bias in their aesthetic interests. They particularly liked the button colors contrasted to the dark background. They also pointed out that the color scheme for light mode could just be black and white, stating that it would look more sleek that way.
@@ -83,6 +83,11 @@ Direct Quotes from Impression Test:
 
 > “The color scheme for light mode is nice, but honestly, the page would look better if it was just black and white. Taking that color scheme would make it look more sleek and professional. Maybe if you don’t want it to be boring, a textured white background would be cool”
 
+### Final Design
+
+Following the impression test, I made some changes to the final design. Namely, the background color. It was changed from a light ivory to an eggshell white. Additionally the button colors were changed to a green color as it falls under the typical color schemes of enrvironmental-related design. I made the green a bit more mute so it is softer on the eyes.
+
+![final design](final.png)
 
 ## Accessibility + Contrast Check
 
@@ -124,7 +129,7 @@ Direct Quotes from Impression Test:
 ## Design Decisions 
 
 Color Scheme:
-I changed the colors per the user’s suggestions. This color scheme actually aligns with the current app’s interface (black and white). 
+I changed the colors per the user’s suggestions. This color scheme actually aligns with the current app’s interface (black and white). The green was made more muted to avoid being harsh on the eyes.
 
 Typeface:
 I chose to go with Roboto Serif because that is the font that the user preferred out of the options I presented. I liked both letter casing for Roboto Serif as well as its readability. I made the font size 15 for the body as to be pretty standard for users skimming through information.
