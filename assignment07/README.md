@@ -10,7 +10,7 @@ This prototype is a redesign of the WWF Together app. This prototype aims to hav
 
 ### Process
 
-This high-fidelity, interactive prototype was created based on several steps throughout the design process. First, the interactions included in this prototype were chosen based on observations made during usability testing and contextual analysis. Next, two user personas were created and assigned to a specific interaction, based on how much benefit it could bring to them related to their personal characteristics. Then, wireframes and wireflows were created as part of a low-fidelity prototype, which was tested with one user. Feedback from user informed changes made to the tentative design for certain interactions. These changes were then incorporated into into the high-fidelity, interactive prototype that was made using Figma.
+This high-fidelity, interactive prototype was created based on several steps throughout the design process. First, the interactions included in this prototype were chosen based on observations made during usability testing and contextual analysis. Next, two user personas were created and assigned to a specific interaction, based on how much benefit it could bring to them related to their personal circumstances. Then, wireframes and wireflows were created as part of a low-fidelity prototype, which was tested with one user. Feedback from user informed changes made to the tentative design for certain interactions. These changes were then incorporated into into the high-fidelity, interactive prototype that was made using Figma.
 
 ### Purpose
 
