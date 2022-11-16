@@ -1,4 +1,4 @@
-# Assignment 3: Contextual Inquiry (CI)
+# Assignment 7: High-Fidelity Prototype
 
 Giovanni Anguiano | DH110 | Fall 2022
 
