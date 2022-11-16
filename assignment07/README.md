@@ -27,8 +27,9 @@ The purpose of creating this high-fidelity prototype is to visualize the functio
 
 ### Task 1 and 2 Flow
 
-**Task 1: Red**
-**Task 2: Blue**
+> **Task 1: Red**
+
+> **Task 2: Blue**
 
 ![HiFi Wireflow](hifiproto.png)
 
