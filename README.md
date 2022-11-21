@@ -14,7 +14,7 @@ A heuristic evaluation was conducted on the WWF Togther with one user to have a 
 
 ### Design
 
-With a 
+
 
 ### Evaluation
 
