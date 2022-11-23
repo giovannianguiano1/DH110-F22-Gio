@@ -38,6 +38,7 @@ Find link to the prototype (first iteration) [here](https://www.figma.com/proto/
 ![HiFi Wireflow](hifiproto.png)
 
 ## Cognitive Walkthrough 
+Find full cogntive walkthrough [here](https://docs.google.com/document/d/1W_imxnNTXYovp_6b4xtr-mG-KPODkJz0KwHYGU4cd-0/edit)
 
 The cognitive walkthrough went smoothly and thankfully helped me identify some small areas of improvement. My two testers were able to successfully complete the given tasks and followed the intended flow of interactions. They enjoyed the clear user feedback to them and liked how clean and sleek the interface is. Here are some highlights from their constructive notes:
 
