@@ -38,3 +38,17 @@ Find link to the prototype (first iteration) [here](https://www.figma.com/proto/
 ![HiFi Wireflow](hifiproto.png)
 
 ## Cognitive Walkthrough 
+
+The cognitive walkthrough went smoothly and thankfully helped me identify some small areas of improvement. My two testers were able to successfully complete the given tasks and followed the intended flow of interactions. They enjoyed the clear user feedback to them and liked how clean and sleek the interface is. Here are some highlights from their constructive notes:
+
+1. Some boxes look like buttons instead of drop downs, which causes confusion for navigations
+> Proposed Revision: Have the boxes turn into a simple underlining and keep the drop down arrow
+
+2. The text is a bit small
+> Proposed Revision: Increase the text size from 14pt to 16pt
+
+3. The GPS feature automatically takes location without giving extra confirmation
+> Proposed Revision: Have a lock-in constraint when users attempt to utilize GPS feature. Lock-in will ask when the app can track location (e.g., allow once, allow while using app)
+
+4. Have all buttons be clickable
+> Proposed Revision: Create interactions for all button components
