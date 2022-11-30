@@ -31,7 +31,7 @@ A contextual inquiry was conducted to understand what features users were seekin
 
 The objective of UX storytelling is to step out of your own perspective and into user’s perspective. Creating personas and along with a story allows design teams to empathize with the target users. After conducting research, I had a more clear idea of my target users so I created two personas to step into the shoes of my audience and better understand their motivations and desires. Find the full personas [here](https://github.com/giovannianguiano1/DH110-F22-Gio/tree/main/assignment04).
 
-![Aileen's Persona and Scenario](https://raw.githubusercontent.com/giovannianguiano1/DH110-F22-Gio/main/assignment04/AileenWoodley.png)
+![Jordan's Persona and Scenario](https://raw.githubusercontent.com/giovannianguiano1/DH110-F22-Gio/main/assignment04/JordanGreen.png)
 
 ### Wireframe and Graphic Design Element Variation 
 
